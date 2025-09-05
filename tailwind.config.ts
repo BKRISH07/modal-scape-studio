@@ -52,6 +52,12 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				// University branding colors
+				'iu-red': 'hsl(var(--iu-red))',
+				'iu-red-light': 'hsl(var(--iu-red-light))',
+				'chat-bg': 'hsl(var(--chat-bg))',
+				'chat-input-bg': 'hsl(var(--chat-input-bg))',
+				'text-subtle': 'hsl(var(--text-subtle))',
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
